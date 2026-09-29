@@ -1,11 +1,6 @@
 # 🛡️ SafeGuard AntiFish Defense
-
-`<strong>`{=html}Android Cybersecurity & Anti-Phishing
-Platform`</strong>`{=html}`<br>`{=html} Защита от фишинга,
-интернет-мошенничества и потенциально опасных сетевых ресурсов.
-```{=html}
-</p>
-```
+    Android Cybersecurity & Anti-Phishing
+Защита от фишинга,интернет-мошенничества и потенциально опасных сетевых ресурсов.
 
 ------------------------------------------------------------------------
 
@@ -279,12 +274,6 @@ Email: `kuanishgalii@gmail.com`
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-`<strong>`{=html}🛡️ SafeGuard AntiFish
-Defense`</strong>`{=html}`<br>`{=html} Think Before You
-Trust.`<br>`{=html}`<br>`{=html} © 2026 SafeGuard AntiFish Defense
-```{=html}
+
 </p>
 ```
