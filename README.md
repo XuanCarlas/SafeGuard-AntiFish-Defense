@@ -1,8 +1,5 @@
 # 🛡️ SafeGuard AntiFish Defense
 
-```{=html}
-<p align="center">
-```
 `<strong>`{=html}Android Cybersecurity & Anti-Phishing
 Platform`</strong>`{=html}`<br>`{=html} Защита от фишинга,
 интернет-мошенничества и потенциально опасных сетевых ресурсов.
