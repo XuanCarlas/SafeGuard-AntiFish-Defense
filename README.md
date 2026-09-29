@@ -15,8 +15,8 @@
 обработку там, где это возможно, прозрачные результаты анализа и
 отсутствие фиктивных показателей защиты.
 
-> SafeGuard не заявляет абсолютную защиту от всех киберугроз. Результаты
-> анализа являются индикаторами риска.
+> SafeGuard не заявляет абсолютную защиту от всех киберугроз.
+> Результаты анализа являются индикаторами риска.
 
 ## Основные направления
 
@@ -145,116 +145,6 @@ YARA + IOC + Heuristics + Threat Intelligence
                Risk Engine
 ```
 
-## Privacy by Design
-
-SafeGuard проектируется так, чтобы без необходимости не хранить пароли,
-PIN, OTP, CVV, банковские данные, cookies, authentication/session
-tokens, содержимое приватных сообщений и форм авторизации.
-
-## Technology Stack
-
-  Technology                      Purpose
-  ------------------------------- --------------------------
-  Kotlin                          Main language
-  Jetpack Compose                 UI
-  Material 3                      Design system
-  MVVM / Clean Architecture       Architecture
-  Coroutines / Flow / StateFlow   Async & reactive state
-  Hilt                            Dependency Injection
-  Room                            Local database
-  DataStore                       Settings
-  WorkManager                     Background jobs
-  CameraX / ML Kit                QR workflow
-  Android VpnService              Local network protection
-  Android Keystore                Local key protection
-
-## Сборка
-
-Требуются Android Studio, JDK 17 и Android SDK.
-
-``` bash
-git clone YOUR_REPOSITORY_URL
-cd SafeGuard-AntiFish-Defense
-./gradlew clean
-./gradlew test
-./gradlew lint
-./gradlew assembleDebug
-```
-
-Windows:
-
-``` powershell
-gradlew.bat clean
-gradlew.bat test
-gradlew.bat lint
-gradlew.bat assembleDebug
-```
-
-Debug APK:
-
-`app/build/outputs/apk/debug/app-debug.apk`
-
-## Releases
-
-Готовые APK рекомендуется публиковать через **GitHub Releases**, а не
-коммитить в основной репозиторий. Для релиза указывайте версию/build,
-дату, changelog, SHA-256, известные ограничения и APK.
-
-## 🤝 Участие в разработке
-
-SafeGuard открыт для участия Android/Kotlin и
-cybersecurity-разработчиков, тестировщиков и специалистов по
-локализации.
-
-Особенно полезна помощь в направлениях:
-
--   URL/domain security и homograph detection
--   Android networking
--   IOC / Threat Intelligence
--   YARA
--   Unit / integration testing
--   False-positive reduction
--   Kotlin / Jetpack Compose
--   Қазақша / English localization
--   Documentation
-
-Для простых задач используйте labels `good first issue`, `help wanted`,
-`testing`, `documentation`, `localization`.
-
-## Сообщить об ошибке
-
-В Issue укажите версию SafeGuard, Android, шаги воспроизведения,
-ожидаемый и фактический результат. Не публикуйте пароли, OTP, токены,
-API-ключи, приватные сертификаты, банковскую информацию или другие
-секретные данные.
-
-## Security Vulnerabilities
-
-Потенциальные уязвимости, способные подвергнуть пользователей риску, не
-следует сразу раскрывать в публичном Issue. Используйте процесс
-ответственного сообщения, описанный в `SECURITY.md`.
-
-## Roadmap
-
-Отмечайте `[x]` только после фактической реализации и проверки.
-
--   [ ] URL & Domain Protection
--   [ ] Homograph / Punycode Detection
--   [ ] QR Protection
--   [ ] Scam Text Analyzer
--   [ ] Local VPN Protection
--   [ ] DNS / Domain / IP Filtering
--   [ ] IOC Database
--   [ ] Threat Intelligence
--   [ ] Heuristic Engine
--   [ ] YARA Detection
--   [ ] Application Security Scanner
--   [ ] Critical Apps Protection
--   [ ] Advanced HTTPS Protection
--   [ ] Security Center
--   [ ] RU / KK / EN localization
--   [ ] Deepfake media research
--   [ ] Voice-clone detection research
 
 ## Disclaimer
 
