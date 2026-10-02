@@ -7,7 +7,9 @@ SafeGuard AntiFish Defense - интернеттегі қауіпсіздікті
 Негізгі мүмкіндіктері: сілтемелер мен домендерді талдау, фишинг пен интернет-алаяқтық белгілерін анықтау, APK-файлдарды тексеру, QR-кодтарды талдау, жергілікті VPN арқылы желілік қорғау, IOC дерекқоры, YARA ережелері және эвристикалық талдау.
 
 🌐 Тілдер: 🇰🇿 Қазақша • 🇷🇺 Русский • 🇬🇧 English
+
 📱 Платформа: Android
+
 🇰🇿 Қазақстанда әзірленген
 
 🇷🇺 Русский
@@ -19,7 +21,9 @@ SafeGuard AntiFish Defense - приложение для Android, предназ
 Основные возможности: анализ ссылок и доменов, выявление признаков фишинга и интернет-мошенничества, проверка APK-файлов, анализ QR-кодов, локальная VPN-защита, база индикаторов компрометации (IOC), YARA-правила и эвристический анализ.
 
 🌐 Языки: 🇰🇿 Қазақша • 🇷🇺 Русский • 🇬🇧 English
+
 📱 Платформа: Android
+
 🇰🇿 Разработано в Казахстане
 
 🇬🇧 English
@@ -31,7 +35,9 @@ SafeGuard AntiFish Defense is an Android application designed to improve online 
 Key features: URL and domain analysis, phishing and online scam detection, APK scanning, QR code analysis, local VPN protection, Indicators of Compromise (IOC), YARA rules, and heuristic threat analysis.
 
 🌐 Languages: 🇰🇿 Қазақша • 🇷🇺 Русский • 🇬🇧 English
+
 📱 Platform: Android
+
 🇰🇿 Developed in Kazakhstan
 
 Разработчик / Әзірлеуші / Developer: Куанышгали Ишимбаев
