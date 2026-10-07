@@ -93,6 +93,6 @@ SafeGuard создаётся с принципом минимизации обр
 
 **SafeGuard AntiFish Defense**
 
-> Проверяй. Думай. Будь в безопасности🛡️
+🛡️Проверяй. Думай. Будь в безопасности🛡️
 
 © 2026 SafeGuard AntiFish Defense
