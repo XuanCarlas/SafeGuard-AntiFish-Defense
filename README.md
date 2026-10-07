@@ -43,23 +43,17 @@ SafeGuard разделяет **Privacy Risk** и **Security Risk**.
 
 ## 🔎 Принцип работы
 
-Android Apps
-        ↓
+Android Apps ↓
         
-SafeGuard Local VPN
-        ↓
+SafeGuard Local VPN ↓
         
-DNS / Domain / IP Analysis
-        ↓
+DNS / Domain / IP Analysis ↓
         
-IOC / Threat / Tracker Database
-        ↓
+IOC / Threat / Tracker Database ↓
         
-Heuristic & Risk Analysis
-        ↓
+Heuristic & Risk Analysis ↓
         
-Policy Engine
-        ↓
+Policy Engine ↓
         
 ALLOW / MONITOR / WARN / BLOCK
 
