@@ -45,16 +45,22 @@ SafeGuard разделяет **Privacy Risk** и **Security Risk**.
 
 Android Apps
         ↓
+        
 SafeGuard Local VPN
         ↓
+        
 DNS / Domain / IP Analysis
         ↓
+        
 IOC / Threat / Tracker Database
         ↓
+        
 Heuristic & Risk Analysis
         ↓
+        
 Policy Engine
         ↓
+        
 ALLOW / MONITOR / WARN / BLOCK
 
 ## 🔒 Privacy by Design
