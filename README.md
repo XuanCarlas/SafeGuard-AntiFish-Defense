@@ -22,8 +22,8 @@
 
 <p align="center">
 
-<img src="./assets/screenshots/home.png" width="220" alt="Главная">
-<img src="./assets/screenshots/home2.png" width="220"
+<img src="./assets/home.png" width="220" alt="Главная">
+<img src="./assets/home2.png" width="220"
 </a>
 
 </p>
