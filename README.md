@@ -1,4 +1,5 @@
 # 🛡️ SafeGuard AntiFish Defense
+         **Версия 1.0.0**
 
 <div align="center">
 
@@ -174,6 +175,5 @@ SafeGuard является дополнительным уровнем защи�
 ### Проверяй. Думай. Будь в безопасности.
 
 ![Kazakhstan](https://img.shields.io/badge/Made%20in-Kazakhstan-00AFCA?style=for-the-badge)
-**Версия 1.0.0**
 
 </div>
