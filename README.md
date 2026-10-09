@@ -146,9 +146,6 @@ SafeGuard создаётся по принципу **Privacy by Design**. Осн
 
 Анализ безопасности не предназначен для сохранения паролей, PIN-кодов, CVV, OTP/SMS-кодов, приватных сообщений или содержимого форм авторизации. Функции обновления и онлайн-проверки репутации, если включены, могут использовать необходимые сетевые запросы.
 
-## ⚙️ Технологии
-
-`Kotlin` • `Jetpack Compose` • `Material 3` • `MVVM` • `Clean Architecture` • `Coroutines` • `Flow` • `Hilt` • `Room` • `DataStore` • `WorkManager` • `Android Keystore` • `VpnService` • `CameraX` • `ML Kit`
 
 ## 🌍 Языки
 
