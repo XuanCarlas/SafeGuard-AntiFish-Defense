@@ -20,6 +20,18 @@
 
 **SafeGuard AntiFish Defense** - Android-приложение для дополнительной защиты от интернет-мошенничества, фишинга, опасных ссылок, подозрительных QR-кодов, вредоносных приложений и сетевых угроз.
 
+<p align="center">
+
+<a href="assets/screenshots/home.png">
+  <img src="assets/screenshots/home.png" width="190">
+</a>
+
+<a href="assets/screenshots/home2.png">
+  <img src="assets/screenshots/home2.png" width="190">
+</a>
+
+</p>
+
 > **Получил ссылку → проверь → оцени риск → только потом открывай.**
 
 ## ⚡ Основные возможности
