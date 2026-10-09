@@ -4,8 +4,6 @@
 
 ### Защита от фишинга, интернет-мошенничества и цифровых угроз
 
-**Проверяй. Думай. Будь в безопасности.**
-
 ![Version](https://img.shields.io/badge/version-1.0.0-00C853?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-Security-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
