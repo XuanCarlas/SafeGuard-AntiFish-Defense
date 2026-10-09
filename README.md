@@ -23,7 +23,7 @@
 <p align="center">
 
 <img src="home.png" width="220" alt="Главная">
-<img src="home2.png" width="220"
+<img src="home-2.png" width="220"
 </a>
 
 </p>
