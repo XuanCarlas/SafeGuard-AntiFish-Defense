@@ -1,5 +1,4 @@
-# 🛡️ SafeGuard AntiFish Defense
-         **Версия 1.0.0**
+# 🛡️ SafeGuard AntiFish Defense    **Версия 1.0.0**
 
 <div align="center">
 
