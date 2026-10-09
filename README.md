@@ -10,7 +10,7 @@
 ![Android](https://img.shields.io/badge/Android-Security-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-[📱 **Скачать APK**](https://share.kz/gXmH) • [💻 **GitHub**](https://github.com/XuanCarlas/SafeGuard-AntiFish-Defense)
+•[📱 **Скачать APK**](https://share.kz/gXmH) 
 
 </div>
 
