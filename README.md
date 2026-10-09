@@ -8,7 +8,7 @@
 ![Android](https://img.shields.io/badge/Android-Security-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-[📱 **Скачать приложение**](https://github.com/XuanCarlas/SafeGuard-AntiFish-Defense/releases/download/AntiFishing/SafeGuard-AntiFish-Defense-1.0.0.apk) 
+[📱**Скачать приложение**](https://github.com/XuanCarlas/SafeGuard-AntiFish-Defense/releases/download/AntiFishing/SafeGuard-AntiFish-Defense-1.0.0.apk) 
 
 </div>
 
