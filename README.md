@@ -153,16 +153,6 @@ SafeGuard создаётся по принципу **Privacy by Design**. Осн
 
 https://share.kz/gXmH
 
-## 📸 Скриншоты
-
-Поместите изображения в `assets/screenshots/`:
-
-<p align="center">
-  <img src="assets/screenshots/home.png" width="260">
-  <img src="assets/screenshots/url-scanner.png" width="260">
-  <img src="assets/screenshots/threat-detected.png" width="260">
-</p>
-
 ## ⚠️ Важно
 
 SafeGuard является дополнительным уровнем защиты. Ни одно защитное решение не может гарантировать обнаружение **100% существующих и будущих угроз**.
@@ -179,8 +169,6 @@ SafeGuard является дополнительным уровнем защи�
 ## 🛡️ SafeGuard AntiFish Defense
 ### Проверяй. Думай. Будь в безопасности.
 
-**Version 1.0.0** • 🇰🇿 **Разработано в Казахстане**
-
-[⬇️ Скачать APK](https://share.kz/gXmH)
+**Version 1.0.0** • **Разработано в Казахстане**
 
 </div>
