@@ -10,10 +10,13 @@
 
 [📱**Скачать приложение**](https://github.com/XuanCarlas/SafeGuard-AntiFish-Defense/releases/download/AntiFishing/SafeGuard-AntiFish-Defense-1.0.0.apk) 
 
+-----
+
 ## 🎬 Руководство для пользователя
 
 [▶ Смотреть видео](https://www.youtube.com/watch?v=0CO3lauBwM4)
 
+-----
 </div>
 
 ---
