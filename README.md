@@ -1,4 +1,5 @@
-# 🛡️ SafeGuard AntiFish Defense
+# <img width="1254" height="1254" alt="Неоновый щит с эмблемой S" src="https://github.com/user-attachments/assets/c0a73979-6e79-4a30-8993-8cb7c37352ab" />
+ SafeGuard AntiFish Defense
 
 <div align="center">
 
